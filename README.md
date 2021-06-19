@@ -2,7 +2,7 @@
 ### Inroduction 
 
 This repository is a pytorch version implement of DEXA2021 conference paper
-"Traffic Prediciton Through the Fusion of Spatial Temporal Data and Point of interest."  
+"Traffic Flow Prediciton through the Fusion of Spatial Temporal Data and Points of Interest."  
 
 ### How to run
 
